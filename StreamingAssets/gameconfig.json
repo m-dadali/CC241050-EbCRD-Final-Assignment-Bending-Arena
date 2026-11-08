@@ -1,0 +1,14 @@
+{
+    "playerHealth": 100,
+    "playerMoveSpeed": 6,
+    "playerDamage": 10,
+    "enemyAttackRange": 5,
+    "enemyChaseRange": 50,
+    "enemyAttackCooldown": 3,
+    "proceduralWaves": {
+        "totalWaves": 4,
+        "baseEnemyCount": 3,
+        "baseSpawnInterval": 1.7,
+        "difficultyMultiplier": 1.3
+    }
+}
